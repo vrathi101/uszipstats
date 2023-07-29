@@ -9,8 +9,8 @@ setuptools.setup(
     version='0.3',      # Start with a small number and increase it with every change you make
     license='MIT',
     description='This package will provide the ability to access IRS data',   # Give a short description about your library
-    long_description=read_readme()
-    long_description_content_type='text/markdown'
+    long_description=read_readme(),
+    long_description_content_type='text/markdown',
     author='VEDANT RATHI',                   # Type in your name
     author_email='vedrathi10@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website

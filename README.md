@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-  <h1>USZipStats</h1>
-  <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/taxlogo.png" alt="Project Logo" height="150" width="150" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="150" width="150" style="display: inline-block;">
 </div>
 
 # Table of Contents

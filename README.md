@@ -29,13 +29,10 @@ To help contribute to our project, you can:
 Package Usage
 ----------------------
 To download the package on a command-line interface, run:
-<br>  
     `pip install taxfilingfusion`
-&nbsp
-To download the package on Jupyter Notebooks or IPython environments, run:
 <br>  
+To download the package on Jupyter Notebooks or IPython environments, run:
     `!pip install taxfilingfusion`
-&nbsp
     
 To import the module with the functions to analyze the data
 To upgrade the package version run `pip install uszipstats --upgrade`.

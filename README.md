@@ -1,9 +1,3 @@
-<! --
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="200" width="200" style="display: inline-block;">
-</p>
--->
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="200" width="200" style="display: inline-block;">
 </h1><br>

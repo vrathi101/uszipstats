@@ -26,8 +26,16 @@ To help contribute to our project, you can:
 - help with outreach and publicity
 
 
-This package provides a variety of functions to process the IRS tax stats by zipcode provided here: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
-
 Package Usage
 ----------------------
+To download the package on a command-line interface, run:
+    `pip install taxfilingfusion`
+To download the package on Jupyter Notebooks or IPython environments, run:
+    `!pip install taxfilingfusion`
+    
+To import the module with the functions to analyze the data
 To upgrade the package version run `pip install uszipstats --upgrade`.
+
+
+
+This package provides a variety of functions to process the IRS tax stats by zipcode provided here: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi

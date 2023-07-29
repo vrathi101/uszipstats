@@ -1,17 +1,22 @@
+def read_readme():
+    with open('README.md', 'r', encoding='utf-8') as f:
+        return f.read()
+
 import setuptools
 setuptools.setup(
     name='uszipstats',         # How you named your package
     packages=['code_zip'],   # Chose the same as "name"
-    version='0.2',      # Start with a small number and increase it with every change you make
-    # Chose a license from here: https://help.github.com/articles/licensing-a-repository
+    version='0.3',      # Start with a small number and increase it with every change you make
     license='MIT',
-    description='sample package',   # Give a short description about your library
+    description='This package will provide the ability to access IRS data',   # Give a short description about your library
+    long_description=read_readme()
+    long_description_content_type='text/markdown'
     author='VEDANT RATHI',                   # Type in your name
     author_email='vedrathi10@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website
     url='https://github.com/vrathi101/uszipstats.git',
     # I explain this later on
-    download_url='https://github.com/vrathi101/uszipstats/archive/refs/tags/v_02.tar.gz',
+    download_url='https://github.com/vrathi101/uszipstats/archive/refs/tags/v_03.tar.gz',
     keywords=['DATA', 'FUNCTIONS'],   # Keywords that define your package best
     install_requires=[
         'pandas',

@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="150" width="150" style="display: inline-block;">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="200" width="200" style="display: inline-block;">
+</p>
 
 # Table of Contents
 This package provides a variety of functions to process the IRS tax stats by zipcode provided here: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi

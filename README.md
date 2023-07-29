@@ -4,6 +4,7 @@
 
 TaxFilingFusion stands as the ultimate solution for effortlessly accessing and navigating IRS tax filing data. This powerful package effortlessly transforms complexity into simplicity, empowering users to unlock fresh insights and delve deep into data analysis. Unravel the potential of tax data like never before – whether you're an expert or just starting out, TaxFilingFusion makes IRS data accessible and user-friendly for all.
 
+
 It provides:
 - a powerful connection between tax filing data and the American geography
 - sophisticated functions

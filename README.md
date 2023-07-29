@@ -37,12 +37,13 @@ To download the package on Jupyter Notebooks or IPython environments, run:
 To upgrade the package version (CLI), run: 
     `pip install taxfilingfusion --upgrade`.
 <br>
-<br>
 To use the functions provided by this package, after downloading, run: 
     `from code_query import irs_data`
 <br>
 Then a method can be accessed using the dot operator, like:
-    `irs_data.{function_name(parameters...}`
+    `irs_data.{function_name(parameters...)}`
 
 
-This package provides a variety of functions to process the IRS tax stats by zipcode provided here: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
+Sources
+----------------------
+The IRS tax stats by zipcode: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi

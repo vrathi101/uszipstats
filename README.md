@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/TaxFilingFusion.png" alt="Project Logo" height="200" width="200" style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/vrathi101/uszipstats/main/Logo/TaxFilingFusion.png" alt="Project Logo" height="200" width="200" style="display: inline-block;">
 </h1>
 
 TaxFilingFusion stands as the ultimate solution for effortlessly accessing and navigating IRS tax filing data. This powerful package effortlessly transforms complexity into simplicity, empowering users to unlock fresh insights and delve deep into data analysis. Unravel the potential of tax data like never before – whether you're an expert or just starting out, TaxFilingFusion makes IRS data accessible and user-friendly for all.

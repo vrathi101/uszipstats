@@ -6,7 +6,7 @@ import setuptools
 setuptools.setup(
     name='uszipstats',         # How you named your package
     packages=['code_zip'],   # Chose the same as "name"
-    version='0.3',      # Start with a small number and increase it with every change you make
+    version='0.4',      # Start with a small number and increase it with every change you make
     license='MIT',
     description='This package will provide the ability to access IRS data',   # Give a short description about your library
     long_description=read_readme(),
@@ -16,7 +16,7 @@ setuptools.setup(
     # Provide either the link to your github or to your website
     url='https://github.com/vrathi101/uszipstats.git',
     # I explain this later on
-    download_url='https://github.com/vrathi101/uszipstats/archive/refs/tags/v_03.tar.gz',
+    download_url='https://github.com/vrathi101/uszipstats/archive/refs/tags/v_04.tar.gz',
     keywords=['DATA', 'FUNCTIONS'],   # Keywords that define your package best
     install_requires=[
         'pandas',

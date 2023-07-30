@@ -4,11 +4,18 @@
 
 TaxFilingFusion stands as the ultimate solution for effortlessly accessing and navigating IRS tax filing data. This powerful package effortlessly transforms complexity into simplicity, empowering users to unlock fresh insights and delve deep into data analysis. Unravel the potential of tax data like never before – whether you're an expert or just starting out, TaxFilingFusion makes IRS data accessible and user-friendly for all.
 
-
+Call for Contributions
+----------------------
 It provides:
 - sophisticated functions
 - a powerful connection between tax filing data and the American geography
 - an API with a backend of BigQuery to allow user manipulation of data
+
+Detailed Package Info
+----------------------
+This Python package provides access to individual income tax statistics for various zip codes using data obtained from the IRS. The data spans the years between 2015 and 2020, and each year's data may have a different format as some attributes may be dropped in certain years, while new attributes may be added. 
+The data is ingested into Google BigQuery, where all individual year tables are combined into a single comprehensive table. To enrich the ZipCode data and provide more detailed information, the package utilizes crosswalk files from HUD USPS, which establish links between ZIP codes, state FIPS codes, county FIPS codes, and city FIPS codes. This enriched data allows users to obtain additional details about each ZIP code, such as county, state, region, and other associated information.
+Several views, table query functions, and single-valued functions are implemented to support various data needs for the API. These functions are designed to expose the combined and enriched data for public access. By leveraging these APIs, we have created a beautiful and easy-to-use PyPI package that allows the public to interact with and analyze the IRS individual income tax statistics for different ZIP codes, enriched with valuable geographic information.
 
 Call for Contributions
 ----------------------
@@ -46,4 +53,5 @@ Then a method can be accessed using the dot operator, like:
 
 Sources
 ----------------------
-The IRS tax stats by zipcode: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
+- IRS tax filing statistics: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
+- Zip code data crosswalk files: https://www.huduser.gov/portal/datasets/usps_crosswalk.html

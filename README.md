@@ -50,7 +50,7 @@ To use the functions provided by this package, after downloading, run:
 Then a method can be accessed using the dot operator, like:
     `irs_data.{function_name(parameters...)}`
 <br>
-[Functions URL](https://www.google.com/maps)
+Refer to [TaxFilingFusion Functions](https://drive.google.com/file/d/1rd2jFGZKyjYnAAWVM4uDio7Oc9cfy8fR/view?usp=sharing) to get a high-level overview of the functions available in this package. 
 <br>
 
 Sources

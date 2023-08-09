@@ -49,8 +49,9 @@ To use the functions provided by this package, after downloading, run:
 <br>
 Then a method can be accessed using the dot operator, like:
     `irs_data.{function_name(parameters...)}`
-
+<br>
 [Functions URL](https://www.google.com/maps)
+<br>
 
 Sources
 ----------------------

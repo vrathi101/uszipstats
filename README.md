@@ -51,6 +51,7 @@ Then a method can be accessed using the dot operator, like:
     `irs_data.{function_name(parameters...)}`
 
 [Functions URL](https://www.google.com/maps)
+
 Sources
 ----------------------
 - IRS tax filing statistics: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
